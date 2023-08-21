@@ -3,9 +3,9 @@
 
   <p>
     
-     🔥 Desenvolvedora Full-Stack na Embraer
+     🔥 Desenvolvedora Full Stack | Embraer
   
-     📚 Atualmente, curso Ciência e Tecnologia na Universidade Federal de São Paulo.
+     📚 Ciência e Tecnologia | Universidade Federal de São Paulo.
     
   </p>
 
