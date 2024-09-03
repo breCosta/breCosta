@@ -3,7 +3,7 @@
 
   <p>
     
-     🔥 Desenvolvedora Full Stack | Embraer
+     🔥 Desenvolvedora Oracle - .NET 
   
      📚 Ciência e Tecnologia | Universidade Federal de São Paulo.
     
