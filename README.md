@@ -3,7 +3,7 @@
 
   <p>
     
-     🔥 Desenvolvedora Oracle - .NET 
+     🔥 Desenvolvedora .NET - Oracle
   
      📚 Ciência e Tecnologia | Universidade Federal de São Paulo.
     
