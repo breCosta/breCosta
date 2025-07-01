@@ -34,6 +34,6 @@
 
 <div style="display: inline_block">
   
-<a href="mailto:brenda.costa@unifesp.br" target="_blank" style="text-decoration:none;"><img align="center" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0M6ggYz32UW39FkUpTPAqSnNOeCR9YDNZ5bN6iog1RE8sLUbsuzt8O-d02CowQ3pS3Q&usqp=CAU"></a>
+<a href="mailto:brendalmfcosta@gmail.com" target="_blank" style="text-decoration:none;"><img align="center" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0M6ggYz32UW39FkUpTPAqSnNOeCR9YDNZ5bN6iog1RE8sLUbsuzt8O-d02CowQ3pS3Q&usqp=CAU"></a>
 <a href="https://www.linkedin.com/in/brenda-costa-dev/" target="_blank" style="text-decoration:none;" ><img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>  
 </div>
